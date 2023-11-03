@@ -1,4 +1,4 @@
-# Misiones 
+# Misiones
 
-* Investigar sobre Alacrity
-* 
+-   Investigar sobre Alacrity
+-   Leer mas sobre terminal y comandos
