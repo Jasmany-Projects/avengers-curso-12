@@ -1,5 +1,5 @@
 # Villanos
 
 -   Dr. Doom
--   Dr. Malito
+-   Super Nico Nico
 -   Dr. Franco
